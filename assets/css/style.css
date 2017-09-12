@@ -781,7 +781,7 @@ blockquote {
 	background-size:cover;
 }
 .coolautumn_overlay{
-    background: url(../images/coolautumnover.png) repeat-y 100% 100%;
+    
 	background-size: contain;
 }
 
@@ -803,7 +803,7 @@ blockquote {
 	background-size:cover;
 }
 .drivinghome_overlay{
-	background: url(../images/drivingbg.png) repeat-y 100% 100%;
+	
 	background-size: contain;
 }
 .single_drivinghome blockquote p{
