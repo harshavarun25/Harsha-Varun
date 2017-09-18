@@ -634,7 +634,8 @@ input:-ms-input-placeholder {
 
 /* about Section */
 .user_seperator{
-    position: absolute;
+    background: url(../images/harsha.jpg) no-repeat 100% 100%;
+	position: absolute;
     left: 45%;
     top:-140px;
     z-index: 99;
